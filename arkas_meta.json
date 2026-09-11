@@ -1,0 +1,27 @@
+{
+  "ta": "2026",
+  "nama_sekolah": "SMP NEGERI 7 SENTANI",
+  "npsn": "60300163",
+  "alamat": "Jl. Sosial BPD Gunung Polomo Sentani, Kec. Sentani",
+  "desa_kecamatan": "Sentani",
+  "kabupaten": "Kab. Jayapura",
+  "provinsi": "Prov. Papua",
+  "sumber_dana": "BOS Reguler",
+  "penerimaan": [
+    { "kode": "4.3.1.01.", "uraian": "BOSP Reguler", "jumlah": "340.000.000" }
+  ],
+  "total_penerimaan": "340.000.000",
+  "pagu_awal_bos": "340.000.000",
+  "sisa_dana_bos_tahun_lalu": "0",
+  "jasa_bunga_bank": "0",
+  "nama_bank": "",
+  "no_rekening": "",
+  "atas_nama_rekening": "",
+  "kepala_sekolah": "Maikel Paul Wally, S.Pd",
+  "kepala_nip": "197812232003121006",
+  "bendahara": "Rahel Natalia Done, S.Pd.K",
+  "bendahara_nip": "198812272024202136",
+  "komite_sekolah": "Buce Kawai",
+  "komite_nip": "",
+  "tempat_tanggal": "Kec. Sentani, 30 Desember 2025"
+}
